@@ -1,0 +1,2 @@
+AUC,sensitivity,specificity,PPV,NPV,threshold_ng_mL,LOD_ng_mL,LOQ_ng_mL
+1.0,1.0,1.0,1.0,1.0,10.428089702221467,0.115,0.384
